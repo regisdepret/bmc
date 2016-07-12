@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+print "Boris Media Center"
+
+# Adicionar serie
+nome_serie = raw_input('Nome da Serie: ')
+
